@@ -1816,6 +1816,390 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RR511D1121:RR511D1121"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at -2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "RR511D1121"
+				(at -2.54 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "RR511D1121:E-SWITCH_RR511D1121"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "E-Switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "17.9mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "RR511D1121"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Rocker Switch, RR5 Series, SPST,OFF-ON,Blk Rocker,I/O Legend, 20A, 125VAC, | E-Switch RR511D1121"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "E-Switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "RR511D1121_0_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 2.794 2.1336)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 0)
+					(radius 0.3302)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 2.921 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "SBC_Module_LattePanda:LattePanda_3_Delta"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3779,146 +4163,10 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Switch:SW_SPST"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SW_SPST"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Single Pole Single Throw (SPST) switch"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "switch lever"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_SPST_0_0"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 0.254) (xy 1.524 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SW_SPST_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle")
-		(at 226.06 83.82 0)
+		(at 48.26 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3927,7 +4175,7 @@
 		(fields_autoplaced yes)
 		(uuid "22835649-30db-4282-a2c1-ecff0c6e8544")
 		(property "Reference" "J1"
-			(at 226.06 50.8 0)
+			(at 48.26 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3935,7 +4183,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle"
-			(at 226.06 53.34 0)
+			(at 48.26 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3943,7 +4191,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 229.87 83.82 0)
+			(at 52.07 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3952,7 +4200,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 229.87 83.82 0)
+			(at 52.07 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3961,7 +4209,7 @@
 			)
 		)
 		(property "Description" "USB Full-Featured Type-C Receptacle connector"
-			(at 226.06 83.82 0)
+			(at 48.26 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4055,7 +4303,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 267.97 41.91 0)
+		(at 90.17 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4064,7 +4312,7 @@
 		(fields_autoplaced yes)
 		(uuid "3aa47115-3c89-41c2-bb4a-2d17f861c4f3")
 		(property "Reference" "J3"
-			(at 268.605 34.29 0)
+			(at 90.805 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4072,7 +4320,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 268.605 36.83 0)
+			(at 90.805 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4080,7 +4328,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 267.97 41.91 0)
+			(at 90.17 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4089,7 +4337,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 267.97 41.91 0)
+			(at 90.17 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4098,7 +4346,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 267.97 41.91 0)
+			(at 90.17 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4125,33 +4373,43 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPST")
-		(at 229.87 41.91 0)
+		(lib_id "RR511D1121:RR511D1121")
+		(at 49.53 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5aac6a9e-1600-49a0-9abb-48103eb0a836")
-		(property "Reference" "SW1"
-			(at 229.87 35.56 0)
+		(uuid "73d85595-90a2-4d38-b791-1aafc44c048b")
+		(property "Reference" "S1"
+			(at 49.53 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SW_SPST"
-			(at 229.87 38.1 0)
+		(property "Value" "RR511D1121"
+			(at 49.53 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 229.87 41.91 0)
+		(property "Footprint" "RR511D1121:E-SWITCH_RR511D1121"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4159,8 +4417,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 229.87 41.91 0)
+		(property "Description" ""
+			(at 49.53 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4168,25 +4426,136 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 229.87 41.91 0)
+		(property "MF" "E-Switch"
+			(at 49.53 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "ec1f7116-9ba3-4c54-92bb-309db76dad14")
+		(property "MAXIMUM_PACKAGE_HEIGHT" "17.9mm"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=eda"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "A"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=snap"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "RR511D1121"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Rocker Switch, RR5 Series, SPST,OFF-ON,Blk Rocker,I/O Legend, 20A, 125VAC, | E-Switch RR511D1121"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "E-Switch"
+			(at 49.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
 		)
 		(pin "2"
-			(uuid "7884435f-a572-4616-851d-583b8b0fc71c")
+			(uuid "80c680ba-919e-4612-a824-3784cb1f7233")
+		)
+		(pin "1"
+			(uuid "e1b34d36-1a08-4e33-96ae-0709dd6791ab")
 		)
 		(instances
 			(project ""
 				(path "/2ca9dd43-411d-4cc5-8a4b-ed00d72bae91"
-					(reference "SW1")
+					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -4194,7 +4563,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 243.84 39.37 0)
+		(at 66.04 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4203,7 +4572,7 @@
 		(fields_autoplaced yes)
 		(uuid "974ae1a5-12a5-4490-b088-552826399a5d")
 		(property "Reference" "C1"
-			(at 247.65 37.2109 0)
+			(at 69.85 56.2609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4212,7 +4581,7 @@
 			)
 		)
 		(property "Value" "C_Polarized"
-			(at 247.65 39.7509 0)
+			(at 69.85 58.8009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4221,7 +4590,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 244.8052 43.18 0)
+			(at 67.0052 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4230,7 +4599,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 243.84 39.37 0)
+			(at 66.04 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4239,7 +4608,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 243.84 39.37 0)
+			(at 66.04 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4608,7 +4977,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 257.81 85.09 0)
+		(at 80.01 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4617,7 +4986,7 @@
 		(fields_autoplaced yes)
 		(uuid "db288ef5-c2f9-45bc-977c-f62e5d7dab17")
 		(property "Reference" "J2"
-			(at 257.81 66.04 0)
+			(at 80.01 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4625,7 +4994,7 @@
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 257.81 68.58 0)
+			(at 80.01 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4633,7 +5002,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 261.62 82.55 0)
+			(at 83.82 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4642,7 +5011,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 261.62 82.55 0)
+			(at 83.82 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4651,7 +5020,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 257.81 85.09 0)
+			(at 80.01 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4693,6 +5062,195 @@
 			(project ""
 				(path "/2ca9dd43-411d-4cc5-8a4b-ed00d72bae91"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RR511D1121:RR511D1121")
+		(at 49.53 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e376a38b-b080-4d3c-8d75-6f2ed9a7aa50")
+		(property "Reference" "S2"
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RR511D1121"
+			(at 49.53 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "RR511D1121:E-SWITCH_RR511D1121"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "E-Switch"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "17.9mm"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=eda"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "A"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=snap"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "RR511D1121"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Rocker Switch, RR5 Series, SPST,OFF-ON,Blk Rocker,I/O Legend, 20A, 125VAC, | E-Switch RR511D1121"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "E-Switch"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5282cc53-b395-4ccf-a6cb-f9c31ae26248")
+		)
+		(pin "1"
+			(uuid "045045cf-704a-4f82-9e93-d2a8d4a390b8")
+		)
+		(instances
+			(project "DYNAMO-PCB"
+				(path "/2ca9dd43-411d-4cc5-8a4b-ed00d72bae91"
+					(reference "S2")
 					(unit 1)
 				)
 			)
@@ -4752,292 +5310,404 @@
 			)
 		)
 		(pin "88"
-			(uuid "ac654d29-681f-4b7f-9a2c-ee0f6ee5498d")
+			(uuid "ac654d29-681f-4b7f-9a2c-ee0f6ee5498e")
 		)
 		(pin "86"
-			(uuid "f1b214f9-970b-4f80-9766-93c66e763431")
+			(uuid "f1b214f9-970b-4f80-9766-93c66e763432")
 		)
 		(pin "92"
-			(uuid "dbe65f2d-b152-4f31-8857-054accdeb34b")
+			(uuid "dbe65f2d-b152-4f31-8857-054accdeb34c")
 		)
 		(pin "94"
-			(uuid "8015d179-82d4-4fe3-a8c0-4c6d2e0b7c91")
+			(uuid "8015d179-82d4-4fe3-a8c0-4c6d2e0b7c92")
 		)
 		(pin "90"
-			(uuid "841090ab-58f7-4e9f-a4d2-858bf75e7f52")
+			(uuid "841090ab-58f7-4e9f-a4d2-858bf75e7f53")
 		)
 		(pin "98"
-			(uuid "f30e4a83-29a8-429a-8e63-42ae9d13d943")
+			(uuid "f30e4a83-29a8-429a-8e63-42ae9d13d944")
 		)
 		(pin "100"
-			(uuid "710efde7-17f4-43c7-941f-379ffb3e10c4")
+			(uuid "710efde7-17f4-43c7-941f-379ffb3e10c5")
 		)
 		(pin "84"
-			(uuid "b9d96542-67a5-4b41-a79f-5fd4e17a6700")
+			(uuid "b9d96542-67a5-4b41-a79f-5fd4e17a6701")
 		)
 		(pin "96"
-			(uuid "6a891456-be5d-4244-b53d-4526d0a3fecb")
+			(uuid "6a891456-be5d-4244-b53d-4526d0a3fecc")
 		)
 		(pin "5"
-			(uuid "519e3d49-5115-46de-92bb-a37d9459aff4")
+			(uuid "519e3d49-5115-46de-92bb-a37d9459aff5")
 		)
 		(pin "13"
-			(uuid "658223ac-a054-4e8b-8895-053b64415811")
+			(uuid "658223ac-a054-4e8b-8895-053b64415812")
 		)
 		(pin "41"
-			(uuid "0a8906f2-b7ec-4760-abaf-7c14287cf016")
+			(uuid "0a8906f2-b7ec-4760-abaf-7c14287cf017")
 		)
 		(pin "2"
-			(uuid "a9f356a1-e89f-4a94-98b2-669b45921238")
+			(uuid "a9f356a1-e89f-4a94-98b2-669b45921239")
 		)
 		(pin "6"
-			(uuid "986a4515-1bba-46ed-9cbb-b7ab5e6ae709")
+			(uuid "986a4515-1bba-46ed-9cbb-b7ab5e6ae70a")
 		)
 		(pin "15"
-			(uuid "d39ea72e-1a96-4cfb-9cf5-5a8ade434746")
+			(uuid "d39ea72e-1a96-4cfb-9cf5-5a8ade434747")
 		)
 		(pin "11"
-			(uuid "5b5edacc-5b66-4ad4-9fd4-a970962270ee")
+			(uuid "5b5edacc-5b66-4ad4-9fd4-a970962270ef")
 		)
 		(pin "19"
-			(uuid "e603e941-1823-408b-9c6a-fcfb5cf8f223")
+			(uuid "e603e941-1823-408b-9c6a-fcfb5cf8f224")
 		)
 		(pin "29"
-			(uuid "02aa74ab-fbe6-4d0d-83ec-a9be905a8df6")
+			(uuid "02aa74ab-fbe6-4d0d-83ec-a9be905a8df7")
 		)
 		(pin "18"
-			(uuid "b5ab73ff-ac54-4621-89ef-050d4b429d82")
+			(uuid "b5ab73ff-ac54-4621-89ef-050d4b429d83")
 		)
 		(pin "22"
-			(uuid "956bcfbf-ad3a-4700-a7d9-71f9aa920422")
+			(uuid "956bcfbf-ad3a-4700-a7d9-71f9aa920423")
 		)
 		(pin "21"
-			(uuid "c23ed434-da82-4c3b-b95d-08a218e370e5")
+			(uuid "c23ed434-da82-4c3b-b95d-08a218e370e6")
 		)
 		(pin "45"
-			(uuid "d3095488-f3eb-401a-9cf1-f152acc9c050")
+			(uuid "d3095488-f3eb-401a-9cf1-f152acc9c051")
 		)
 		(pin "23"
-			(uuid "5f38d8f0-3b5d-4e9b-addb-54f924a32a07")
+			(uuid "5f38d8f0-3b5d-4e9b-addb-54f924a32a08")
 		)
 		(pin "1"
-			(uuid "86f0bd45-bc25-4051-8098-78d7f76e9836")
+			(uuid "86f0bd45-bc25-4051-8098-78d7f76e9837")
 		)
 		(pin "43"
-			(uuid "ad049689-e012-4a2b-bb69-043564354153")
+			(uuid "ad049689-e012-4a2b-bb69-043564354154")
 		)
 		(pin "7"
-			(uuid "5ba9d7fc-c820-4ced-8afe-bb6faf135c05")
+			(uuid "5ba9d7fc-c820-4ced-8afe-bb6faf135c06")
 		)
 		(pin "9"
-			(uuid "e9a44d3d-3d89-4484-b327-4dc06da0bce5")
+			(uuid "e9a44d3d-3d89-4484-b327-4dc06da0bce6")
 		)
 		(pin "25"
-			(uuid "df7298dd-de3b-467a-b33c-82940b8fad3f")
+			(uuid "df7298dd-de3b-467a-b33c-82940b8fad40")
 		)
 		(pin "35"
-			(uuid "c3762494-1ea7-4f95-95af-7e97805f1beb")
+			(uuid "c3762494-1ea7-4f95-95af-7e97805f1bec")
 		)
 		(pin "39"
-			(uuid "8dd49634-be89-4622-bc14-719f5a0d6a62")
+			(uuid "8dd49634-be89-4622-bc14-719f5a0d6a63")
 		)
 		(pin "3"
-			(uuid "9d38153a-af4b-4027-bf1a-206821c7677c")
+			(uuid "9d38153a-af4b-4027-bf1a-206821c7677d")
 		)
 		(pin "27"
-			(uuid "21fc5166-240e-4e3c-bd8b-e0888290264e")
+			(uuid "21fc5166-240e-4e3c-bd8b-e0888290264f")
 		)
 		(pin "17"
-			(uuid "771b5775-a39a-43ef-bbb7-cfb6815ca1a3")
+			(uuid "771b5775-a39a-43ef-bbb7-cfb6815ca1a4")
 		)
 		(pin "33"
-			(uuid "59cc4f0a-892d-470b-afac-f04675aac863")
+			(uuid "59cc4f0a-892d-470b-afac-f04675aac864")
 		)
 		(pin "47"
-			(uuid "7ed45dcf-232f-4d4a-b456-50f13aaa3cea")
+			(uuid "7ed45dcf-232f-4d4a-b456-50f13aaa3ceb")
 		)
 		(pin "37"
-			(uuid "61d6efff-d948-4dd9-be2b-97e880f62d07")
+			(uuid "61d6efff-d948-4dd9-be2b-97e880f62d08")
 		)
 		(pin "49"
-			(uuid "46336c6b-b747-47fd-87c4-52b0a3d96480")
+			(uuid "46336c6b-b747-47fd-87c4-52b0a3d96481")
 		)
 		(pin "4"
-			(uuid "1c4e2eaa-df5f-4e64-909b-8e6d5c39e677")
+			(uuid "1c4e2eaa-df5f-4e64-909b-8e6d5c39e678")
 		)
 		(pin "8"
-			(uuid "eb678021-32b8-4049-a9b4-631d38d9fdef")
+			(uuid "eb678021-32b8-4049-a9b4-631d38d9fdf0")
 		)
 		(pin "10"
-			(uuid "6259ab27-b9cc-4223-8c36-2c17f29cbbf6")
+			(uuid "6259ab27-b9cc-4223-8c36-2c17f29cbbf7")
 		)
 		(pin "12"
-			(uuid "dcd38ec5-35f9-473c-a276-cc451be1b680")
+			(uuid "dcd38ec5-35f9-473c-a276-cc451be1b681")
 		)
 		(pin "14"
-			(uuid "88a57315-9b6a-4489-9753-c0fffbcc6a6d")
+			(uuid "88a57315-9b6a-4489-9753-c0fffbcc6a6e")
 		)
 		(pin "16"
-			(uuid "7d7eaa73-e934-4d98-bf41-c69043123207")
+			(uuid "7d7eaa73-e934-4d98-bf41-c69043123208")
 		)
 		(pin "20"
-			(uuid "e4b1ad85-2713-4cef-ab7a-d7fdfe90a3fb")
+			(uuid "e4b1ad85-2713-4cef-ab7a-d7fdfe90a3fc")
 		)
 		(pin "61"
-			(uuid "2182485e-cdca-46f3-b37f-c70eb34ac62b")
+			(uuid "2182485e-cdca-46f3-b37f-c70eb34ac62c")
 		)
 		(pin "44"
-			(uuid "5c6337f6-9ca2-48a3-8686-bdd9b6ad097f")
+			(uuid "5c6337f6-9ca2-48a3-8686-bdd9b6ad0980")
 		)
 		(pin "36"
-			(uuid "aabaf602-e92b-4765-856c-4c2df9ac8f27")
+			(uuid "aabaf602-e92b-4765-856c-4c2df9ac8f28")
 		)
 		(pin "30"
-			(uuid "cf8d2451-88b2-4d17-847e-64c0666a8950")
+			(uuid "cf8d2451-88b2-4d17-847e-64c0666a8951")
 		)
 		(pin "34"
-			(uuid "d548badb-5e63-4751-bc64-5ca8cf3cffea")
+			(uuid "d548badb-5e63-4751-bc64-5ca8cf3cffeb")
 		)
 		(pin "38"
-			(uuid "ce21ac9e-823d-4585-ac37-7d6a69b938ba")
+			(uuid "ce21ac9e-823d-4585-ac37-7d6a69b938bb")
 		)
 		(pin "40"
-			(uuid "5a82cde5-d240-4008-9329-2a8cdf5ef8b0")
+			(uuid "5a82cde5-d240-4008-9329-2a8cdf5ef8b1")
 		)
 		(pin "53"
-			(uuid "8a78345e-710b-492f-8bb0-f8cae9bd42c0")
+			(uuid "8a78345e-710b-492f-8bb0-f8cae9bd42c1")
 		)
 		(pin "28"
-			(uuid "686887c0-0184-43f8-81f7-bf9003935bd0")
+			(uuid "686887c0-0184-43f8-81f7-bf9003935bd1")
 		)
 		(pin "55"
-			(uuid "2c25ef23-11be-43a0-a959-fea54bdf2978")
+			(uuid "2c25ef23-11be-43a0-a959-fea54bdf2979")
 		)
 		(pin "67"
-			(uuid "59343459-708d-49c0-a69a-1f28c9c0dcfb")
+			(uuid "59343459-708d-49c0-a69a-1f28c9c0dcfc")
 		)
 		(pin "48"
-			(uuid "19343ccc-9a40-49d9-b959-a35d94316858")
+			(uuid "19343ccc-9a40-49d9-b959-a35d94316859")
 		)
 		(pin "69"
-			(uuid "76a22ccf-2103-4a9a-9e7c-9f9ff5cb88e0")
+			(uuid "76a22ccf-2103-4a9a-9e7c-9f9ff5cb88e1")
 		)
 		(pin "73"
-			(uuid "69495cf6-8a7e-4515-b848-0c3ff5e8cdc3")
+			(uuid "69495cf6-8a7e-4515-b848-0c3ff5e8cdc4")
 		)
 		(pin "51"
-			(uuid "aa8486b5-4de6-47b0-bece-38f226cee02e")
+			(uuid "aa8486b5-4de6-47b0-bece-38f226cee02f")
 		)
 		(pin "46"
-			(uuid "6cbd5377-8f29-49c7-b634-a3831d725a42")
+			(uuid "6cbd5377-8f29-49c7-b634-a3831d725a43")
 		)
 		(pin "24"
-			(uuid "601e3c40-0317-46df-a894-087038347acf")
+			(uuid "601e3c40-0317-46df-a894-087038347ad0")
 		)
 		(pin "57"
-			(uuid "c1783ff9-4dc2-4a56-8bbd-b483ea1d597d")
+			(uuid "c1783ff9-4dc2-4a56-8bbd-b483ea1d597e")
 		)
 		(pin "50"
-			(uuid "f3bb9c73-812f-4a51-947f-9a6636e2e9fa")
+			(uuid "f3bb9c73-812f-4a51-947f-9a6636e2e9fb")
 		)
 		(pin "59"
-			(uuid "5e560ec0-0b39-4e1a-a2e8-05c22cd2bed0")
+			(uuid "5e560ec0-0b39-4e1a-a2e8-05c22cd2bed1")
 		)
 		(pin "77"
-			(uuid "978bb08d-ea00-4fcc-9f2e-1137f7b00361")
+			(uuid "978bb08d-ea00-4fcc-9f2e-1137f7b00362")
 		)
 		(pin "42"
-			(uuid "778a5204-027e-4a0e-a7a0-4ae2e2a45581")
+			(uuid "778a5204-027e-4a0e-a7a0-4ae2e2a45582")
 		)
 		(pin "65"
-			(uuid "ddecd00e-6192-4e0f-bca5-0042064c884d")
+			(uuid "ddecd00e-6192-4e0f-bca5-0042064c884e")
 		)
 		(pin "26"
-			(uuid "709b6507-97d4-414c-9d70-c5b4b3f89884")
+			(uuid "709b6507-97d4-414c-9d70-c5b4b3f89885")
 		)
 		(pin "79"
-			(uuid "e1fa40a0-83d4-4784-8405-034d606769ba")
+			(uuid "e1fa40a0-83d4-4784-8405-034d606769bb")
 		)
 		(pin "71"
-			(uuid "e8ffa6a9-f981-4dc4-bba1-ee99a8dc26c9")
+			(uuid "e8ffa6a9-f981-4dc4-bba1-ee99a8dc26ca")
 		)
 		(pin "81"
-			(uuid "33276e88-e2bb-4fbe-90aa-9782ae289d2c")
+			(uuid "33276e88-e2bb-4fbe-90aa-9782ae289d2d")
 		)
 		(pin "83"
-			(uuid "9a4bfc23-76f6-4186-bd7d-f3e2720885da")
+			(uuid "9a4bfc23-76f6-4186-bd7d-f3e2720885db")
 		)
 		(pin "85"
-			(uuid "3a86c4e7-5b52-4c4a-afe3-12693a81fb26")
+			(uuid "3a86c4e7-5b52-4c4a-afe3-12693a81fb27")
 		)
 		(pin "91"
-			(uuid "c7bf147c-7e5d-4d23-8441-ce8b0f5ac5e3")
+			(uuid "c7bf147c-7e5d-4d23-8441-ce8b0f5ac5e4")
 		)
 		(pin "99"
-			(uuid "2468edd7-e356-4a23-86e6-b59bb4131a5f")
+			(uuid "2468edd7-e356-4a23-86e6-b59bb4131a60")
 		)
 		(pin "56"
-			(uuid "04079449-7bd0-4512-a191-83f07cbc79b0")
+			(uuid "04079449-7bd0-4512-a191-83f07cbc79b1")
 		)
 		(pin "58"
-			(uuid "e318579f-fb33-4983-a006-1d5b0f12eb55")
+			(uuid "e318579f-fb33-4983-a006-1d5b0f12eb56")
 		)
 		(pin "89"
-			(uuid "f4181c8c-9c60-4ef5-8aa5-fd62e0ceb54e")
+			(uuid "f4181c8c-9c60-4ef5-8aa5-fd62e0ceb54f")
 		)
 		(pin "93"
-			(uuid "fe6baf41-ac26-4336-985f-4cef993b1519")
+			(uuid "fe6baf41-ac26-4336-985f-4cef993b151a")
 		)
 		(pin "62"
-			(uuid "a3e1d10a-5cbe-42be-9036-87c9f2f2253b")
+			(uuid "a3e1d10a-5cbe-42be-9036-87c9f2f2253c")
 		)
 		(pin "54"
-			(uuid "1f3dbc35-eccb-4a19-8f0e-5609f789cdf9")
+			(uuid "1f3dbc35-eccb-4a19-8f0e-5609f789cdfa")
 		)
 		(pin "68"
-			(uuid "206fea5b-84cf-41b7-8e01-fd23a908ae62")
+			(uuid "206fea5b-84cf-41b7-8e01-fd23a908ae63")
 		)
 		(pin "66"
-			(uuid "15c61b3b-52a0-4e74-9ae6-c6fc0339bb85")
+			(uuid "15c61b3b-52a0-4e74-9ae6-c6fc0339bb86")
 		)
 		(pin "97"
-			(uuid "d202be28-a967-48c1-a141-49e5c68ce0d8")
+			(uuid "d202be28-a967-48c1-a141-49e5c68ce0d9")
 		)
 		(pin "52"
-			(uuid "55c76594-5478-436e-a3fb-0ea11d4ec346")
+			(uuid "55c76594-5478-436e-a3fb-0ea11d4ec347")
 		)
 		(pin "70"
-			(uuid "a3080e82-811f-4529-9b46-fe1fb560b135")
+			(uuid "a3080e82-811f-4529-9b46-fe1fb560b136")
 		)
 		(pin "72"
-			(uuid "c87a71d0-9670-43fc-af2c-be8c15485443")
+			(uuid "c87a71d0-9670-43fc-af2c-be8c15485444")
 		)
 		(pin "74"
-			(uuid "00543537-b475-49e2-b3a6-68fb0c144363")
+			(uuid "00543537-b475-49e2-b3a6-68fb0c144364")
 		)
 		(pin "80"
-			(uuid "8b71e9c1-544f-478c-a044-26be321e6ba6")
+			(uuid "8b71e9c1-544f-478c-a044-26be321e6ba7")
 		)
 		(pin "95"
-			(uuid "9880dfa4-33b3-413c-aab7-a061b713c4d8")
+			(uuid "9880dfa4-33b3-413c-aab7-a061b713c4d9")
 		)
 		(pin "87"
-			(uuid "53b9e88d-492d-49e6-bc3e-5760002c27c0")
+			(uuid "53b9e88d-492d-49e6-bc3e-5760002c27c1")
 		)
 		(pin "78"
-			(uuid "1cbdab2d-f528-4488-80c0-b3af4bd7e9b3")
+			(uuid "1cbdab2d-f528-4488-80c0-b3af4bd7e9b4")
 		)
 		(pin "82"
-			(uuid "8c32a342-f961-40d1-959b-5465cb5ecb19")
+			(uuid "8c32a342-f961-40d1-959b-5465cb5ecb1a")
 		)
 		(pin "60"
-			(uuid "86d630b5-0105-42ec-9993-a07a94617392")
+			(uuid "86d630b5-0105-42ec-9993-a07a94617393")
 		)
 		(instances
 			(project ""
 				(path "/2ca9dd43-411d-4cc5-8a4b-ed00d72bae91"
 					(reference "A1")
 					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 66.04 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fce79c84-d643-4ea0-98bb-ed3fd61dbba5")
+		(property "Reference" "R1"
+			(at 68.58 45.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 68.58 48.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.262 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 66.04 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3b1bb714-ba19-4ce5-ad35-3e31be243446")
+		)
+		(pin "1"
+			(uuid "93126d4c-cc70-4b45-a605-2e53afed48e1")
+		)
+		(instances
+			(project ""
+				(path "/2ca9dd43-411d-4cc5-8a4b-ed00d72bae91"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 224.79 73.66)
+		(size 33.02 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8fd238d6-8885-491d-831e-5a6be755c492")
+		(property "Sheetname" "Head PCB"
+			(at 224.79 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "headpcb.kicad_sch"
+			(at 224.79 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DYNAMO-PCB"
+				(path "/2ca9dd43-411d-4cc5-8a4b-ed00d72bae91"
+					(page "2")
 				)
 			)
 		)

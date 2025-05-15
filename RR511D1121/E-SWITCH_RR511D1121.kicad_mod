@@ -1,0 +1,138 @@
+(footprint "E-SWITCH_RR511D1121"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.325 -13.135 0)
+		(layer "F.SilkS")
+		(uuid "c2ff4017-da68-4d3f-a104-dcc4ac48a15c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "E-SWITCH_RR511D1121"
+		(at 8.565 13.365 0)
+		(layer "F.Fab")
+		(uuid "1c7505ee-2ca8-4d07-81fd-3d8e19071dbf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "69899ae7-0d31-404f-8c08-b115903d5a84")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "14eee933-44ec-40f7-b03e-8214d98aabd8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center -12.3 0)
+		(end -12.2 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "3b2edd50-ae9a-4821-beb8-5eb1d2a0bc8e")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 11.5 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "5f07639f-0550-4885-be65-39f55bb8f1a3")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 11.75 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "bdb98c83-d3eb-4398-a47f-36a396e9ccb1")
+	)
+	(fp_circle
+		(center -12.3 0)
+		(end -12.2 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "fdbaad10-a415-4ef7-86cf-d0b000f31b4a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 11.5 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a329365d-5e94-43f2-9e0a-9e4fafeddadf")
+	)
+	(pad "1" thru_hole oval
+		(at -7 0)
+		(size 3.26 6.52)
+		(drill oval 0.98 5.78)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "055f394e-4c73-4ca5-9325-e9b13bf746e1")
+	)
+	(pad "2" thru_hole oval
+		(at 0 0)
+		(size 3.26 6.52)
+		(drill oval 0.98 5.78)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "911f31d0-b2d6-4713-9e0e-2139b5169746")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/felip/OneDrive/Documentos/GitHub/DYNAMO-PCB/RR511D1121/RR511D1121.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
