@@ -14840,9 +14840,9 @@
 			)
 		)
 		(property ki_fp_filters "HDMI*A*")
-		(path "/a0c554f0-7d14-4e19-95c6-0375e443f08a")
-		(sheetname "/")
-		(sheetfile "DYNAMO-PCB.kicad_sch")
+		(path "/40ca106a-4397-464b-b6b2-602763c1b463/a0c554f0-7d14-4e19-95c6-0375e443f08a")
+		(sheetname "/HDMI adapter/")
+		(sheetfile "hdmiadapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -4.985 -4.9)
