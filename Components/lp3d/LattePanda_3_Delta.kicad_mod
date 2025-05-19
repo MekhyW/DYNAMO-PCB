@@ -1149,7 +1149,7 @@
 		(uuid "e4d64a9f-d415-44dc-bdfd-ca8703697438")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/felip/OneDrive/Documentos/GitHub/DYNAMO-PCB/lp3d/00_lp_m_core_pcba_asm_asm180615_GR200.stp"
+	(model "C:/Users/felip/OneDrive/Documentos/GitHub/DYNAMO-PCB/Components/lp3d/00_lp_m_core_pcba_asm_asm180615_GR200.stp"
 		(offset
 			(xyz 75 27 10)
 		)

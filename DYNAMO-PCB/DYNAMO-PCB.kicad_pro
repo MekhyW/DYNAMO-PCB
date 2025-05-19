@@ -616,6 +616,18 @@
     [
       "8fd238d6-8885-491d-831e-5a6be755c492",
       "Head PCB"
+    ],
+    [
+      "b1a71f53-bc17-4314-9292-b5c15f4aa94b",
+      "Power Distribution"
+    ],
+    [
+      "b1823678-0f31-4e1e-8991-613cf2f23486",
+      "USB Hub"
+    ],
+    [
+      "40ca106a-4397-464b-b6b2-602763c1b463",
+      "HDMI adapter"
     ]
   ],
   "text_variables": {}
