@@ -2352,7 +2352,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
-		(at 99.06 92.71 180)
+		(at 99.06 96.52 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2361,7 +2361,7 @@
 		(fields_autoplaced yes)
 		(uuid "6de46041-64bb-4f49-848e-bdcdb2eae2ab")
 		(property "Reference" "J31"
-			(at 110.49 91.4399 0)
+			(at 110.49 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2370,7 +2370,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle_USB2.0_16P"
-			(at 110.49 93.9799 0)
+			(at 110.49 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2379,7 +2379,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
-			(at 95.25 92.71 0)
+			(at 95.25 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2388,7 +2388,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 95.25 92.71 0)
+			(at 95.25 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2397,7 +2397,7 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
-			(at 99.06 92.71 0)
+			(at 99.06 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
