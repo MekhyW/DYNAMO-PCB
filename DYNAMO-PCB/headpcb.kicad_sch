@@ -1774,7 +1774,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x08_Socket")
-		(at 144.78 107.95 0)
+		(at 140.97 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1783,7 +1783,7 @@
 		(fields_autoplaced yes)
 		(uuid "16346e82-a2b0-4304-ba84-da8154ce171e")
 		(property "Reference" "J7"
-			(at 146.05 107.9499 0)
+			(at 142.24 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1792,7 +1792,7 @@
 			)
 		)
 		(property "Value" "Conn_01x08_Socket"
-			(at 146.05 110.4899 0)
+			(at 142.24 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1801,7 +1801,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal"
-			(at 144.78 107.95 0)
+			(at 140.97 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1810,7 +1810,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 107.95 0)
+			(at 140.97 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1819,7 +1819,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
-			(at 144.78 107.95 0)
+			(at 140.97 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1862,7 +1862,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 160.02 130.81 0)
+		(at 156.21 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1871,7 +1871,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ea361b4-6ab0-45f9-aa79-5e0c985798ab")
 		(property "Reference" "R3"
-			(at 162.56 129.5399 0)
+			(at 158.75 118.1099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1880,7 +1880,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 162.56 132.0799 0)
+			(at 158.75 120.6499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1889,7 +1889,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
-			(at 158.242 130.81 90)
+			(at 154.432 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1898,7 +1898,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 130.81 0)
+			(at 156.21 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1907,7 +1907,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 160.02 130.81 0)
+			(at 156.21 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1932,7 +1932,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 140.97 144.78 0)
+		(at 137.16 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1941,7 +1941,7 @@
 		(fields_autoplaced yes)
 		(uuid "25350b2e-8876-49fb-bf62-91030124d600")
 		(property "Reference" "C2"
-			(at 144.78 142.6209 0)
+			(at 140.97 131.1909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1950,7 +1950,7 @@
 			)
 		)
 		(property "Value" "C_Polarized"
-			(at 144.78 145.1609 0)
+			(at 140.97 133.7309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1959,7 +1959,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 141.9352 148.59 0)
+			(at 138.1252 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1968,7 +1968,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 144.78 0)
+			(at 137.16 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1977,7 +1977,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 140.97 144.78 0)
+			(at 137.16 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2002,7 +2002,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 140.97 77.47 0)
+		(at 137.16 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2011,7 +2011,7 @@
 		(fields_autoplaced yes)
 		(uuid "2da762a1-6b4c-4950-b4cc-db907cdfccb8")
 		(property "Reference" "J5"
-			(at 141.605 72.39 0)
+			(at 137.795 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2019,7 +2019,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 141.605 74.93 0)
+			(at 137.795 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2027,7 +2027,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 140.97 77.47 0)
+			(at 137.16 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2036,7 +2036,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 77.47 0)
+			(at 137.16 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2045,7 +2045,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 140.97 77.47 0)
+			(at 137.16 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2070,7 +2070,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 190.5 91.44 0)
+		(at 186.69 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2079,7 +2079,7 @@
 		(fields_autoplaced yes)
 		(uuid "2eb5dc9d-3a41-4282-8ebb-081496279a84")
 		(property "Reference" "J10"
-			(at 191.135 83.82 0)
+			(at 187.325 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2087,7 +2087,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 191.135 86.36 0)
+			(at 187.325 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2095,7 +2095,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 190.5 91.44 0)
+			(at 186.69 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2104,7 +2104,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 91.44 0)
+			(at 186.69 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2113,7 +2113,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 190.5 91.44 0)
+			(at 186.69 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2141,7 +2141,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 208.28 91.44 0)
+		(at 204.47 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2150,7 +2150,7 @@
 		(fields_autoplaced yes)
 		(uuid "4fc73ebb-ed1b-470d-8dad-bd6cada43197")
 		(property "Reference" "J11"
-			(at 208.915 83.82 0)
+			(at 205.105 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2158,7 +2158,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 208.915 86.36 0)
+			(at 205.105 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2166,7 +2166,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 208.28 91.44 0)
+			(at 204.47 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2175,7 +2175,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 208.28 91.44 0)
+			(at 204.47 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2184,7 +2184,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 208.28 91.44 0)
+			(at 204.47 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2212,7 +2212,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 176.53 144.78 0)
+		(at 172.72 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2221,7 +2221,7 @@
 		(fields_autoplaced yes)
 		(uuid "517253c6-d175-49a1-9757-e81f668b6d1e")
 		(property "Reference" "C4"
-			(at 180.34 142.6209 0)
+			(at 176.53 131.1909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2230,7 +2230,7 @@
 			)
 		)
 		(property "Value" "C_Polarized"
-			(at 180.34 145.1609 0)
+			(at 176.53 133.7309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2239,7 +2239,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 177.4952 148.59 0)
+			(at 173.6852 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2248,7 +2248,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 144.78 0)
+			(at 172.72 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2257,7 +2257,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 176.53 144.78 0)
+			(at 172.72 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2282,7 +2282,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 193.04 144.78 0)
+		(at 189.23 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2291,7 +2291,7 @@
 		(fields_autoplaced yes)
 		(uuid "64d468e1-be01-4069-80f7-e0ae570924bb")
 		(property "Reference" "C5"
-			(at 196.85 142.6209 0)
+			(at 193.04 131.1909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2300,7 +2300,7 @@
 			)
 		)
 		(property "Value" "C_Polarized"
-			(at 196.85 145.1609 0)
+			(at 193.04 133.7309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2309,7 +2309,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 194.0052 148.59 0)
+			(at 190.1952 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2318,7 +2318,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 144.78 0)
+			(at 189.23 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2327,7 +2327,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 193.04 144.78 0)
+			(at 189.23 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2352,7 +2352,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
-		(at 102.87 104.14 180)
+		(at 99.06 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2361,7 +2361,7 @@
 		(fields_autoplaced yes)
 		(uuid "6de46041-64bb-4f49-848e-bdcdb2eae2ab")
 		(property "Reference" "J31"
-			(at 114.3 102.8699 0)
+			(at 110.49 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2370,7 +2370,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle_USB2.0_16P"
-			(at 114.3 105.4099 0)
+			(at 110.49 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2379,7 +2379,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
-			(at 99.06 104.14 0)
+			(at 95.25 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2388,7 +2388,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 99.06 104.14 0)
+			(at 95.25 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2397,7 +2397,7 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
-			(at 102.87 104.14 0)
+			(at 99.06 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2467,7 +2467,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 160.02 144.78 0)
+		(at 156.21 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2476,7 +2476,7 @@
 		(fields_autoplaced yes)
 		(uuid "71dff835-5ff5-46c3-8b4c-6181c3e991cf")
 		(property "Reference" "C3"
-			(at 163.83 142.6209 0)
+			(at 160.02 131.1909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2485,7 +2485,7 @@
 			)
 		)
 		(property "Value" "C_Polarized"
-			(at 163.83 145.1609 0)
+			(at 160.02 133.7309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2494,7 +2494,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 160.9852 148.59 0)
+			(at 157.1752 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2503,7 +2503,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 144.78 0)
+			(at 156.21 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2512,7 +2512,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 160.02 144.78 0)
+			(at 156.21 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2537,7 +2537,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 140.97 91.44 0)
+		(at 137.16 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2546,7 +2546,7 @@
 		(fields_autoplaced yes)
 		(uuid "73cc9e28-a373-4ccd-a56f-668b312741a0")
 		(property "Reference" "J6"
-			(at 141.605 83.82 0)
+			(at 137.795 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2554,7 +2554,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 141.605 86.36 0)
+			(at 137.795 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2562,7 +2562,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 140.97 91.44 0)
+			(at 137.16 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2571,7 +2571,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 91.44 0)
+			(at 137.16 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2580,7 +2580,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 140.97 91.44 0)
+			(at 137.16 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2608,7 +2608,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 173.99 91.44 0)
+		(at 170.18 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2617,7 +2617,7 @@
 		(fields_autoplaced yes)
 		(uuid "756af2b0-6717-42cc-ac6b-ba86792e0a5d")
 		(property "Reference" "J9"
-			(at 174.625 83.82 0)
+			(at 170.815 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2625,7 +2625,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 174.625 86.36 0)
+			(at 170.815 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2633,7 +2633,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 173.99 91.44 0)
+			(at 170.18 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2642,7 +2642,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 173.99 91.44 0)
+			(at 170.18 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2651,7 +2651,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 173.99 91.44 0)
+			(at 170.18 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2679,7 +2679,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 224.79 91.44 0)
+		(at 220.98 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2688,7 +2688,7 @@
 		(fields_autoplaced yes)
 		(uuid "808c6c82-9f30-4913-8c60-23320031fe4c")
 		(property "Reference" "J12"
-			(at 225.425 83.82 0)
+			(at 221.615 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2696,7 +2696,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 225.425 86.36 0)
+			(at 221.615 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2704,7 +2704,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 224.79 91.44 0)
+			(at 220.98 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2713,7 +2713,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.79 91.44 0)
+			(at 220.98 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2722,7 +2722,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 224.79 91.44 0)
+			(at 220.98 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2750,7 +2750,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 140.97 130.81 0)
+		(at 137.16 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2759,7 +2759,7 @@
 		(fields_autoplaced yes)
 		(uuid "c79b675a-e02d-458c-83eb-ea502dc20303")
 		(property "Reference" "R2"
-			(at 143.51 129.5399 0)
+			(at 139.7 118.1099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2768,7 +2768,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 143.51 132.0799 0)
+			(at 139.7 120.6499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2777,7 +2777,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
-			(at 139.192 130.81 90)
+			(at 135.382 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2786,7 +2786,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 130.81 0)
+			(at 137.16 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2795,7 +2795,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 140.97 130.81 0)
+			(at 137.16 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2820,7 +2820,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 157.48 91.44 0)
+		(at 153.67 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2829,7 +2829,7 @@
 		(fields_autoplaced yes)
 		(uuid "f511a949-cc54-477e-ae30-53ceb7133ce1")
 		(property "Reference" "J8"
-			(at 158.115 83.82 0)
+			(at 154.305 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2837,7 +2837,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 158.115 86.36 0)
+			(at 154.305 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2845,7 +2845,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 157.48 91.44 0)
+			(at 153.67 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2854,7 +2854,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 91.44 0)
+			(at 153.67 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2863,7 +2863,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 157.48 91.44 0)
+			(at 153.67 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)

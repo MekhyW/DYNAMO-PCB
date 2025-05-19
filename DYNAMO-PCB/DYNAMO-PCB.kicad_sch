@@ -3833,18 +3833,298 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 91.44 41.91) (xy 91.44 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0316e12d-42b2-4d76-a4bc-8cf20243bc1d")
+	)
+	(wire
+		(pts
+			(xy 106.68 62.23) (xy 106.68 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03e9f3cb-76c7-4230-a393-7946174869d7")
+	)
+	(wire
+		(pts
+			(xy 78.74 41.91) (xy 78.74 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08d661b2-6bb2-4140-85a8-b875e9a45af6")
+	)
+	(wire
+		(pts
+			(xy 114.3 41.91) (xy 114.3 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "123d3143-bfe7-404d-9fcd-5e4fc2da786f")
+	)
+	(wire
+		(pts
+			(xy 107.95 60.96) (xy 107.95 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17cf356e-961e-4b45-80bc-07ee8c4b6a19")
+	)
+	(wire
+		(pts
+			(xy 71.12 64.77) (xy 67.31 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d043d11-ea4b-4014-85d2-5562d50f5c55")
+	)
+	(wire
+		(pts
+			(xy 107.95 27.94) (xy 109.22 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25f350fd-65b2-4a93-8c41-dd99620da7fa")
+	)
+	(wire
+		(pts
+			(xy 116.84 41.91) (xy 116.84 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f3b211a-67a0-4982-b15f-8960275d0839")
+	)
+	(wire
+		(pts
+			(xy 106.68 26.67) (xy 109.22 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30f242fc-41c8-49e2-be77-65c357529c76")
+	)
+	(wire
+		(pts
+			(xy 109.22 29.21) (xy 109.22 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "310114be-f7ce-4aa1-825f-d3ad8192b7a1")
+	)
+	(wire
+		(pts
+			(xy 93.98 41.91) (xy 93.98 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e3ee393-37fd-4b5e-805e-7786c9a94882")
+	)
+	(wire
+		(pts
+			(xy 68.58 59.69) (xy 68.58 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4293eab6-76b6-4997-bc38-e468ea95e99d")
+	)
+	(wire
+		(pts
+			(xy 124.46 41.91) (xy 124.46 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50eac9f4-9276-428d-9dcd-da39f9b6a591")
+	)
+	(wire
+		(pts
+			(xy 86.36 41.91) (xy 86.36 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b82ba22-a6d3-4324-bd8c-51fc021533aa")
+	)
+	(wire
+		(pts
+			(xy 129.54 41.91) (xy 129.54 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e71e1af-2ae4-4076-bac7-ddecc796088f")
+	)
+	(wire
+		(pts
+			(xy 132.08 41.91) (xy 132.08 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67377978-9dbd-4f77-a1d1-9938513afb2a")
+	)
+	(wire
+		(pts
+			(xy 71.12 62.23) (xy 68.58 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70cfa345-793b-4e22-8ce1-60483068b4c1")
+	)
+	(wire
+		(pts
+			(xy 67.31 27.94) (xy 71.12 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7512bdc9-ed27-4464-b7cf-a477b3d7b2ad")
+	)
+	(wire
+		(pts
+			(xy 99.06 41.91) (xy 99.06 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9de6033b-4706-43f1-ae90-02026e8a5d68")
+	)
+	(wire
+		(pts
+			(xy 109.22 64.77) (xy 106.68 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a19531e4-9639-4fae-a331-f7fab524b585")
+	)
+	(wire
+		(pts
+			(xy 67.31 60.96) (xy 67.31 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acce8407-a168-4ff4-813a-12506dd72ad9")
+	)
+	(wire
+		(pts
+			(xy 76.2 41.91) (xy 76.2 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af475d17-91d5-4f13-b7eb-3e37031e7e6d")
+	)
+	(wire
+		(pts
+			(xy 137.16 41.91) (xy 137.16 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c057c5d3-bdaf-4612-a213-8ab0e85c8e95")
+	)
+	(wire
+		(pts
+			(xy 71.12 29.21) (xy 71.12 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c195a3c2-c613-4175-b3d6-2f5fc33a11d0")
+	)
+	(wire
+		(pts
+			(xy 68.58 29.21) (xy 71.12 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f08475e9-8a1f-43c7-8520-24ea74162627")
+	)
+	(wire
+		(pts
+			(xy 83.82 41.91) (xy 83.82 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb4cdece-ffb9-499c-9806-36dd081e9fd4")
+	)
+	(wire
+		(pts
+			(xy 121.92 41.91) (xy 121.92 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbdbb434-e70f-4f6d-af73-18d041940a1b")
+	)
+	(wire
+		(pts
+			(xy 109.22 62.23) (xy 107.95 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe5ff8fe-0a5a-4f98-9500-15ead09ce1d7")
+	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 116.84 172.72 90)
+		(at 127 59.69 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "04db7697-2e6e-4667-800e-c619acb4fad4")
 		(property "Reference" "J24"
-			(at 101.6 171.4499 90)
+			(at 142.24 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3853,7 +4133,7 @@
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 101.6 173.9899 90)
+			(at 142.24 60.9599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3862,7 +4142,7 @@
 			)
 		)
 		(property "Footprint" "692122030100:692122030100"
-			(at 114.3 168.91 0)
+			(at 129.54 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3871,7 +4151,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 114.3 168.91 0)
+			(at 129.54 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3880,7 +4160,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 116.84 172.72 0)
+			(at 127 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3929,7 +4209,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 224.79 26.67 270)
+		(at 161.29 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3937,7 +4217,7 @@
 		(dnp no)
 		(uuid "0b2eb28f-123c-4369-95d6-0847fa8784e1")
 		(property "Reference" "J21"
-			(at 243.84 26.67 0)
+			(at 180.34 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3945,7 +4225,7 @@
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 241.3 26.67 0)
+			(at 177.8 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3953,7 +4233,7 @@
 			)
 		)
 		(property "Footprint" "692122030100:692122030100"
-			(at 227.33 30.48 0)
+			(at 163.83 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3962,7 +4242,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 227.33 30.48 0)
+			(at 163.83 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3971,7 +4251,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 224.79 26.67 0)
+			(at 161.29 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4020,7 +4300,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 257.81 26.67 270)
+		(at 194.31 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4028,7 +4308,7 @@
 		(dnp no)
 		(uuid "351d1204-0724-4630-84bf-d3a4fcdfad34")
 		(property "Reference" "J32"
-			(at 276.86 26.67 0)
+			(at 213.36 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4036,7 +4316,7 @@
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 274.32 26.67 0)
+			(at 210.82 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4044,7 +4324,7 @@
 			)
 		)
 		(property "Footprint" "692122030100:692122030100"
-			(at 260.35 30.48 0)
+			(at 196.85 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4053,7 +4333,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 260.35 30.48 0)
+			(at 196.85 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4062,7 +4342,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 257.81 26.67 0)
+			(at 194.31 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4111,7 +4391,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 190.5 74.93 270)
+		(at 205.74 147.32 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4119,7 +4399,7 @@
 		(dnp no)
 		(uuid "3aa47115-3c89-41c2-bb4a-2d17f861c4f3")
 		(property "Reference" "J3"
-			(at 190.5 69.85 90)
+			(at 210.82 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4127,7 +4407,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 190.5 72.39 90)
+			(at 208.28 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4135,7 +4415,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 190.5 74.93 0)
+			(at 205.74 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4144,7 +4424,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 74.93 0)
+			(at 205.74 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4153,7 +4433,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 190.5 74.93 0)
+			(at 205.74 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4181,7 +4461,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 190.5 62.23 270)
+		(at 218.44 147.32 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4190,7 +4470,7 @@
 		(fields_autoplaced yes)
 		(uuid "41968d5a-2daa-4e11-b99b-a0a0c07b1c24")
 		(property "Reference" "J13"
-			(at 191.77 61.5949 90)
+			(at 219.0751 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4199,7 +4479,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 191.77 64.1349 90)
+			(at 216.5351 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4208,7 +4488,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 190.5 62.23 0)
+			(at 218.44 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4217,7 +4497,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 62.23 0)
+			(at 218.44 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4226,7 +4506,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 190.5 62.23 0)
+			(at 218.44 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4251,7 +4531,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 158.75 26.67 270)
+		(at 88.9 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4260,7 +4540,7 @@
 		(fields_autoplaced yes)
 		(uuid "636b92a5-a42a-45d1-bc13-6773ab48090c")
 		(property "Reference" "J18"
-			(at 173.99 25.3999 90)
+			(at 104.14 27.9399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4269,7 +4549,7 @@
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 173.99 27.9399 90)
+			(at 104.14 30.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4278,7 +4558,7 @@
 			)
 		)
 		(property "Footprint" "692122030100:692122030100"
-			(at 161.29 30.48 0)
+			(at 91.44 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4287,7 +4567,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 161.29 30.48 0)
+			(at 91.44 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4296,7 +4576,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 158.75 26.67 0)
+			(at 88.9 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4345,7 +4625,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 153.67 172.72 90)
+		(at 175.26 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4354,25 +4634,23 @@
 		(fields_autoplaced yes)
 		(uuid "668d9a48-6fdd-417a-bd4b-6b42e459933a")
 		(property "Reference" "J25"
-			(at 138.43 171.4499 90)
+			(at 156.21 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 138.43 173.9899 90)
+			(at 158.75 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "692122030100:692122030100"
-			(at 151.13 168.91 0)
+			(at 172.72 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4381,7 +4659,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 168.91 0)
+			(at 172.72 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4390,7 +4668,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 153.67 172.72 0)
+			(at 175.26 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4439,7 +4717,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 189.23 101.6 0)
+		(at 179.07 146.05 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4448,7 +4726,7 @@
 		(fields_autoplaced yes)
 		(uuid "974ae1a5-12a5-4490-b088-552826399a5d")
 		(property "Reference" "C1"
-			(at 193.04 99.4409 0)
+			(at 181.2291 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4457,7 +4735,7 @@
 			)
 		)
 		(property "Value" "C_Polarized"
-			(at 193.04 101.9809 0)
+			(at 178.6891 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4466,7 +4744,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 190.1952 105.41 0)
+			(at 175.26 147.0152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4475,7 +4753,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 189.23 101.6 0)
+			(at 179.07 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4484,7 +4762,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 189.23 101.6 0)
+			(at 179.07 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4509,7 +4787,7 @@
 	)
 	(symbol
 		(lib_id "SBC_Module_LattePanda:LattePanda_3_Delta")
-		(at 123.19 100.33 0)
+		(at 132.08 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4517,7 +4795,7 @@
 		(dnp no)
 		(uuid "a4c76af6-b478-4b2c-98b1-cc149a419e81")
 		(property "Reference" "A1"
-			(at 123.19 62.23 0)
+			(at 132.08 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4525,7 +4803,7 @@
 			)
 		)
 		(property "Value" "LattePanda_3_Delta"
-			(at 123.19 64.77 0)
+			(at 132.08 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4533,7 +4811,7 @@
 			)
 		)
 		(property "Footprint" "lp3d:LattePanda_3_Delta"
-			(at 123.19 100.33 0)
+			(at 132.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4542,7 +4820,7 @@
 			)
 		)
 		(property "Datasheet" "https://docs.lattepanda.com/content/3rd_delta_edition/io_playability/"
-			(at 123.19 100.33 0)
+			(at 132.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4551,7 +4829,7 @@
 			)
 		)
 		(property "Description" "LattePanda 3 Delta Single-board computer with intel quad-core processor, 8G memory, 64G eMMC and Arduino coprocessor"
-			(at 123.19 100.33 0)
+			(at 132.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4851,102 +5129,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:USB3_A")
-		(at 125.73 26.67 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "da2c04b0-6463-47af-870e-18b4492a5fa9")
-		(property "Reference" "J17"
-			(at 140.97 25.3999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "USB3_A"
-			(at 140.97 27.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "692122030100:692122030100"
-			(at 128.27 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 128.27 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "USB 3.0 A connector"
-			(at 125.73 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5230a562-4385-4ab0-92e9-13867eaacbf2")
-		)
-		(pin "7"
-			(uuid "f0670910-b430-4aa0-a6b5-673a16aa58e5")
-		)
-		(pin "3"
-			(uuid "4df72651-695f-42d5-bde0-2a1626f14d08")
-		)
-		(pin "5"
-			(uuid "8248c881-84a1-464f-b127-4ad9e5de1c49")
-		)
-		(pin "6"
-			(uuid "ea26240d-b99c-4dcf-a1b6-15078e1671c2")
-		)
-		(pin "8"
-			(uuid "90fb33f7-02a4-4d90-b6b2-96252a416e13")
-		)
-		(pin "1"
-			(uuid "5171833f-5af0-4df0-b669-f6fd5b919f9b")
-		)
-		(pin "10"
-			(uuid "68c5d9c5-0796-4daa-96f0-1cef51c5c75f")
-		)
-		(pin "4"
-			(uuid "5a669fc5-9c93-4b38-ac9c-3416cb65daff")
-		)
-		(pin "9"
-			(uuid "0e97928e-0e8c-4a42-8ae7-0eb8ed650e38")
-		)
-		(instances
-			(project "DYNAMO-PCB"
-				(path "/2ca9dd43-411d-4cc5-8a4b-ed00d72bae91"
-					(reference "J17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
-		(at 224.79 91.44 0)
+		(at 227.33 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4955,7 +5139,7 @@
 		(fields_autoplaced yes)
 		(uuid "da420ddb-4d10-4497-b009-72b36f82e091")
 		(property "Reference" "J29"
-			(at 224.79 68.58 0)
+			(at 227.33 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4963,7 +5147,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle_USB2.0_16P"
-			(at 224.79 71.12 0)
+			(at 227.33 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4971,7 +5155,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
-			(at 228.6 91.44 0)
+			(at 231.14 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4980,7 +5164,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 228.6 91.44 0)
+			(at 231.14 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4989,7 +5173,7 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
-			(at 224.79 91.44 0)
+			(at 227.33 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5059,110 +5243,16 @@
 	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 92.71 26.67 270)
+		(at 88.9 59.69 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "db288ef5-c2f9-45bc-977c-f62e5d7dab17")
-		(property "Reference" "J2"
-			(at 107.95 25.3999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "USB3_A"
-			(at 107.95 27.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "692122030100:692122030100"
-			(at 95.25 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 95.25 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "USB 3.0 A connector"
-			(at 92.71 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "443c6a63-f5d9-4e0d-8be2-e9a9585474e0")
-		)
-		(pin "7"
-			(uuid "aefcd2f3-73fe-4b46-8d7a-caff0b1a2541")
-		)
-		(pin "3"
-			(uuid "84023690-0b11-4dd8-b3cc-4f89375a53a5")
-		)
-		(pin "5"
-			(uuid "00065a37-1ae1-4705-8f3d-a3d2b40f6ec7")
-		)
-		(pin "6"
-			(uuid "f7f06716-74f4-418a-861b-7ba31ab91bc1")
-		)
-		(pin "8"
-			(uuid "50e0ab74-8e5d-4f60-82c8-c2309d23dc1a")
-		)
-		(pin "1"
-			(uuid "8a437359-f279-4dfa-9b63-4aaacf807592")
-		)
-		(pin "10"
-			(uuid "7236efbe-6629-4603-b0b9-239588c202b4")
-		)
-		(pin "4"
-			(uuid "9909c201-4dee-4505-9bc1-38baeb25b30b")
-		)
-		(pin "9"
-			(uuid "53e2fd37-7128-4820-b11a-741221c79355")
-		)
-		(instances
-			(project ""
-				(path "/2ca9dd43-411d-4cc5-8a4b-ed00d72bae91"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:USB3_A")
-		(at 80.01 172.72 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dedf9d72-cd5a-4136-b705-75008697736e")
 		(property "Reference" "J23"
-			(at 64.77 171.4499 90)
+			(at 104.14 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5171,7 +5261,7 @@
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 64.77 173.9899 90)
+			(at 104.14 60.9599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5180,7 +5270,7 @@
 			)
 		)
 		(property "Footprint" "692122030100:692122030100"
-			(at 77.47 168.91 0)
+			(at 91.44 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5189,7 +5279,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 168.91 0)
+			(at 91.44 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5198,7 +5288,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 80.01 172.72 0)
+			(at 88.9 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5247,7 +5337,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 191.77 26.67 270)
+		(at 127 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5255,7 +5345,7 @@
 		(dnp no)
 		(uuid "ec96e070-142f-4078-9bd7-5646c0cdb28a")
 		(property "Reference" "J22"
-			(at 207.01 25.3999 90)
+			(at 142.24 27.9399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5264,7 +5354,7 @@
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 207.01 27.9399 90)
+			(at 142.24 30.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5273,7 +5363,7 @@
 			)
 		)
 		(property "Footprint" "692122030100:692122030100"
-			(at 194.31 30.48 0)
+			(at 129.54 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5282,7 +5372,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 194.31 30.48 0)
+			(at 129.54 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5291,7 +5381,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 191.77 26.67 0)
+			(at 127 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5340,7 +5430,7 @@
 	)
 	(symbol
 		(lib_id "SBC_Module_LattePanda:LattePanda_3_Delta")
-		(at 161.29 100.33 0)
+		(at 92.71 144.78 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5348,7 +5438,7 @@
 		(dnp no)
 		(uuid "f8e83574-61e9-41ed-be5f-1fd3f6be4f2f")
 		(property "Reference" "A1"
-			(at 161.29 62.23 0)
+			(at 92.71 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5356,7 +5446,7 @@
 			)
 		)
 		(property "Value" "LattePanda_3_Delta"
-			(at 161.29 64.77 0)
+			(at 92.71 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5364,7 +5454,7 @@
 			)
 		)
 		(property "Footprint" "lp3d:LattePanda_3_Delta"
-			(at 161.29 100.33 0)
+			(at 92.71 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5373,7 +5463,7 @@
 			)
 		)
 		(property "Datasheet" "https://docs.lattepanda.com/content/3rd_delta_edition/io_playability/"
-			(at 161.29 100.33 0)
+			(at 92.71 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5382,7 +5472,7 @@
 			)
 		)
 		(property "Description" "LattePanda 3 Delta Single-board computer with intel quad-core processor, 8G memory, 64G eMMC and Arduino coprocessor"
-			(at 161.29 100.33 0)
+			(at 92.71 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5683,7 +5773,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 189.23 90.17 0)
+		(at 190.5 146.05 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5692,7 +5782,7 @@
 		(fields_autoplaced yes)
 		(uuid "fce79c84-d643-4ea0-98bb-ed3fd61dbba5")
 		(property "Reference" "R1"
-			(at 191.77 88.8999 0)
+			(at 191.7701 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5701,7 +5791,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 191.77 91.4399 0)
+			(at 189.2301 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5710,7 +5800,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
-			(at 187.452 90.17 90)
+			(at 190.5 144.272 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5719,7 +5809,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 189.23 90.17 0)
+			(at 190.5 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5728,7 +5818,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 189.23 90.17 0)
+			(at 190.5 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5752,7 +5842,7 @@
 		)
 	)
 	(sheet
-		(at 22.86 124.46)
+		(at 24.13 48.26)
 		(size 27.94 45.72)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5768,7 +5858,7 @@
 		)
 		(uuid "40ca106a-4397-464b-b6b2-602763c1b463")
 		(property "Sheetname" "HDMI adapter"
-			(at 22.86 123.7484 0)
+			(at 24.13 47.5484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5777,7 +5867,7 @@
 			)
 		)
 		(property "Sheetfile" "hdmiadapter.kicad_sch"
-			(at 22.86 170.7646 0)
+			(at 24.13 94.5646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5794,7 +5884,7 @@
 		)
 	)
 	(sheet
-		(at 243.84 62.23)
+		(at 243.84 87.63)
 		(size 33.02 58.42)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5810,7 +5900,7 @@
 		)
 		(uuid "8fd238d6-8885-491d-831e-5a6be755c492")
 		(property "Sheetname" "Head PCB"
-			(at 243.84 61.5184 0)
+			(at 243.84 86.9184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5819,7 +5909,7 @@
 			)
 		)
 		(property "Sheetfile" "headpcb.kicad_sch"
-			(at 243.84 121.2346 0)
+			(at 243.84 146.6346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5836,8 +5926,8 @@
 		)
 	)
 	(sheet
-		(at 60.96 59.69)
-		(size 27.94 49.53)
+		(at 154.94 50.8)
+		(size 45.72 27.94)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5852,7 +5942,7 @@
 		)
 		(uuid "b1823678-0f31-4e1e-8991-613cf2f23486")
 		(property "Sheetname" "USB Hub"
-			(at 60.96 58.9784 0)
+			(at 154.94 50.0884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5861,7 +5951,7 @@
 			)
 		)
 		(property "Sheetfile" "usbhhub.kicad_sch"
-			(at 60.96 109.8046 0)
+			(at 154.94 79.3246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5878,8 +5968,8 @@
 		)
 	)
 	(sheet
-		(at 22.86 59.69)
-		(size 27.94 49.53)
+		(at 24.13 115.57)
+		(size 27.94 45.72)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5894,7 +5984,7 @@
 		)
 		(uuid "b1a71f53-bc17-4314-9292-b5c15f4aa94b")
 		(property "Sheetname" "Power Distribution"
-			(at 22.86 58.9784 0)
+			(at 24.13 114.8584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5903,7 +5993,7 @@
 			)
 		)
 		(property "Sheetfile" "powerdistrib.kicad_sch"
-			(at 22.86 109.8046 0)
+			(at 24.13 161.8746 0)
 			(effects
 				(font
 					(size 1.27 1.27)

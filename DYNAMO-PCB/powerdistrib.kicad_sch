@@ -1478,9 +1478,49 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "Display power ports"
+		(exclude_from_sim no)
+		(at 19.05 20.32 0)
+		(size 78.74 33.02)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "14fc87bf-bda6-4246-9cd7-d4ba78d770ff")
+	)
+	(text_box "Ports for charging batteries"
+		(exclude_from_sim no)
+		(at 16.51 87.63 0)
+		(size 31.75 92.71)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "eb9e3291-aa70-4e06-b204-07c73891cd12")
+	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
-		(at 172.72 50.8 180)
+		(at 170.18 85.09 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1489,7 +1529,7 @@
 		(fields_autoplaced yes)
 		(uuid "28f41abb-e65a-4c94-9e3b-d1745de96811")
 		(property "Reference" "J28"
-			(at 184.15 49.5299 0)
+			(at 181.61 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1498,7 +1538,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle_USB2.0_16P"
-			(at 184.15 52.0699 0)
+			(at 181.61 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1507,7 +1547,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
-			(at 168.91 50.8 0)
+			(at 166.37 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1516,7 +1556,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 168.91 50.8 0)
+			(at 166.37 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1525,7 +1565,7 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
-			(at 172.72 50.8 0)
+			(at 170.18 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1595,7 +1635,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
-		(at 118.11 50.8 0)
+		(at 115.57 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1604,7 +1644,7 @@
 		(fields_autoplaced yes)
 		(uuid "2caee43a-474d-403d-a0eb-bdd73f8ef627")
 		(property "Reference" "J30"
-			(at 118.11 27.94 0)
+			(at 115.57 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1612,7 +1652,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle_USB2.0_16P"
-			(at 118.11 30.48 0)
+			(at 115.57 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1620,7 +1660,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
-			(at 121.92 50.8 0)
+			(at 119.38 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1629,7 +1669,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 121.92 50.8 0)
+			(at 119.38 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1638,7 +1678,7 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
-			(at 118.11 50.8 0)
+			(at 115.57 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1708,7 +1748,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
-		(at 166.37 147.32 90)
+		(at 30.48 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1716,7 +1756,7 @@
 		(dnp no)
 		(uuid "36c4556d-706f-4fa3-9d3d-1669ce0a75bc")
 		(property "Reference" "J27"
-			(at 123.19 151.1301 90)
+			(at 26.6699 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1725,7 +1765,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle_USB2.0_16P"
-			(at 123.19 148.5901 90)
+			(at 29.2099 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1734,7 +1774,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
-			(at 166.37 143.51 0)
+			(at 34.29 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1743,7 +1783,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 166.37 143.51 0)
+			(at 34.29 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1752,7 +1792,7 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
-			(at 166.37 147.32 0)
+			(at 30.48 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1822,7 +1862,7 @@
 	)
 	(symbol
 		(lib_id "RR511D1121:RR511D1121")
-		(at 146.05 93.98 0)
+		(at 143.51 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1831,7 +1871,7 @@
 		(fields_autoplaced yes)
 		(uuid "73d85595-90a2-4d38-b791-1aafc44c048b")
 		(property "Reference" "S1"
-			(at 146.05 86.36 0)
+			(at 143.51 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1839,7 +1879,7 @@
 			)
 		)
 		(property "Value" "RR511D1121"
-			(at 146.05 88.9 0)
+			(at 143.51 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1847,7 +1887,7 @@
 			)
 		)
 		(property "Footprint" "RR511D1121:E-SWITCH_RR511D1121"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1857,7 +1897,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1866,7 +1906,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1875,7 +1915,7 @@
 			)
 		)
 		(property "MF" "E-Switch"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1885,7 +1925,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "17.9mm"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1895,7 +1935,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1905,7 +1945,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1915,7 +1955,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=eda"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1925,7 +1965,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1935,7 +1975,7 @@
 			)
 		)
 		(property "PARTREV" "A"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1945,7 +1985,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=snap"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1955,7 +1995,7 @@
 			)
 		)
 		(property "MP" "RR511D1121"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1965,7 +2005,7 @@
 			)
 		)
 		(property "Description_1" "Rocker Switch, RR5 Series, SPST,OFF-ON,Blk Rocker,I/O Legend, 20A, 125VAC, | E-Switch RR511D1121"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1975,7 +2015,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1985,7 +2025,7 @@
 			)
 		)
 		(property "MANUFACTURER" "E-Switch"
-			(at 146.05 93.98 0)
+			(at 143.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2011,7 +2051,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 171.45 96.52 180)
+		(at 168.91 130.81 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2019,7 +2059,7 @@
 		(dnp no)
 		(uuid "79db6998-ce35-4bdf-9aa7-3a00c238943b")
 		(property "Reference" "J20"
-			(at 171.45 115.57 0)
+			(at 168.91 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2027,7 +2067,7 @@
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 171.45 113.03 0)
+			(at 168.91 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2035,7 +2075,7 @@
 			)
 		)
 		(property "Footprint" "692122030100:692122030100"
-			(at 167.64 99.06 0)
+			(at 165.1 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2044,7 +2084,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 99.06 0)
+			(at 165.1 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2053,7 +2093,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 171.45 96.52 0)
+			(at 168.91 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2102,7 +2142,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 118.11 95.25 0)
+		(at 115.57 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2110,7 +2150,7 @@
 		(dnp no)
 		(uuid "bb84115c-1c9b-4905-a0cb-ef3b0f859505")
 		(property "Reference" "J19"
-			(at 118.11 76.2 0)
+			(at 115.57 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2118,7 +2158,7 @@
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 118.11 78.74 0)
+			(at 115.57 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2126,7 +2166,7 @@
 			)
 		)
 		(property "Footprint" "692122030100:692122030100"
-			(at 121.92 92.71 0)
+			(at 119.38 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2135,7 +2175,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 92.71 0)
+			(at 119.38 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2144,7 +2184,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 118.11 95.25 0)
+			(at 115.57 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2193,7 +2233,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
-		(at 124.46 147.32 90)
+		(at 30.48 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2201,7 +2241,7 @@
 		(dnp no)
 		(uuid "c54ab398-3a4b-4117-8f6d-313a2146d0a7")
 		(property "Reference" "J26"
-			(at 105.41 148.5901 90)
+			(at 29.2099 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2210,7 +2250,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle_USB2.0_16P"
-			(at 105.41 146.0501 90)
+			(at 31.7499 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2219,7 +2259,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
-			(at 124.46 143.51 0)
+			(at 34.29 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2228,7 +2268,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 124.46 143.51 0)
+			(at 34.29 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2237,7 +2277,7 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
-			(at 124.46 147.32 0)
+			(at 30.48 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2306,8 +2346,196 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:USB3_A")
+		(at 72.39 35.56 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "da2c04b0-6463-47af-870e-18b4492a5fa9")
+		(property "Reference" "J17"
+			(at 87.63 34.2899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "USB3_A"
+			(at 87.63 36.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "692122030100:692122030100"
+			(at 74.93 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 74.93 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "USB 3.0 A connector"
+			(at 72.39 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5230a562-4385-4ab0-92e9-13867eaacbf2")
+		)
+		(pin "7"
+			(uuid "f0670910-b430-4aa0-a6b5-673a16aa58e5")
+		)
+		(pin "3"
+			(uuid "4df72651-695f-42d5-bde0-2a1626f14d08")
+		)
+		(pin "5"
+			(uuid "8248c881-84a1-464f-b127-4ad9e5de1c49")
+		)
+		(pin "6"
+			(uuid "ea26240d-b99c-4dcf-a1b6-15078e1671c2")
+		)
+		(pin "8"
+			(uuid "90fb33f7-02a4-4d90-b6b2-96252a416e13")
+		)
+		(pin "1"
+			(uuid "5171833f-5af0-4df0-b669-f6fd5b919f9b")
+		)
+		(pin "10"
+			(uuid "68c5d9c5-0796-4daa-96f0-1cef51c5c75f")
+		)
+		(pin "4"
+			(uuid "5a669fc5-9c93-4b38-ac9c-3416cb65daff")
+		)
+		(pin "9"
+			(uuid "0e97928e-0e8c-4a42-8ae7-0eb8ed650e38")
+		)
+		(instances
+			(project "DYNAMO-PCB"
+				(path "/2ca9dd43-411d-4cc5-8a4b-ed00d72bae91/b1a71f53-bc17-4314-9292-b5c15f4aa94b"
+					(reference "J17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:USB3_A")
+		(at 39.37 35.56 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db288ef5-c2f9-45bc-977c-f62e5d7dab17")
+		(property "Reference" "J2"
+			(at 54.61 34.2899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "USB3_A"
+			(at 54.61 36.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "692122030100:692122030100"
+			(at 41.91 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.91 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "USB 3.0 A connector"
+			(at 39.37 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "443c6a63-f5d9-4e0d-8be2-e9a9585474e0")
+		)
+		(pin "7"
+			(uuid "aefcd2f3-73fe-4b46-8d7a-caff0b1a2541")
+		)
+		(pin "3"
+			(uuid "84023690-0b11-4dd8-b3cc-4f89375a53a5")
+		)
+		(pin "5"
+			(uuid "00065a37-1ae1-4705-8f3d-a3d2b40f6ec7")
+		)
+		(pin "6"
+			(uuid "f7f06716-74f4-418a-861b-7ba31ab91bc1")
+		)
+		(pin "8"
+			(uuid "50e0ab74-8e5d-4f60-82c8-c2309d23dc1a")
+		)
+		(pin "1"
+			(uuid "8a437359-f279-4dfa-9b63-4aaacf807592")
+		)
+		(pin "10"
+			(uuid "7236efbe-6629-4603-b0b9-239588c202b4")
+		)
+		(pin "4"
+			(uuid "9909c201-4dee-4505-9bc1-38baeb25b30b")
+		)
+		(pin "9"
+			(uuid "53e2fd37-7128-4820-b11a-741221c79355")
+		)
+		(instances
+			(project "DYNAMO-PCB"
+				(path "/2ca9dd43-411d-4cc5-8a4b-ed00d72bae91/b1a71f53-bc17-4314-9292-b5c15f4aa94b"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RR511D1121:RR511D1121")
-		(at 146.05 48.26 0)
+		(at 143.51 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2316,7 +2544,7 @@
 		(fields_autoplaced yes)
 		(uuid "e376a38b-b080-4d3c-8d75-6f2ed9a7aa50")
 		(property "Reference" "S2"
-			(at 146.05 40.64 0)
+			(at 143.51 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2324,7 +2552,7 @@
 			)
 		)
 		(property "Value" "RR511D1121"
-			(at 146.05 43.18 0)
+			(at 143.51 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2332,7 +2560,7 @@
 			)
 		)
 		(property "Footprint" "RR511D1121:E-SWITCH_RR511D1121"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2342,7 +2570,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2351,7 +2579,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2360,7 +2588,7 @@
 			)
 		)
 		(property "MF" "E-Switch"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2370,7 +2598,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "17.9mm"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2380,7 +2608,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2390,7 +2618,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2400,7 +2628,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=eda"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2410,7 +2638,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2420,7 +2648,7 @@
 			)
 		)
 		(property "PARTREV" "A"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2430,7 +2658,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=snap"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2440,7 +2668,7 @@
 			)
 		)
 		(property "MP" "RR511D1121"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2450,7 +2678,7 @@
 			)
 		)
 		(property "Description_1" "Rocker Switch, RR5 Series, SPST,OFF-ON,Blk Rocker,I/O Legend, 20A, 125VAC, | E-Switch RR511D1121"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2460,7 +2688,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2470,7 +2698,7 @@
 			)
 		)
 		(property "MANUFACTURER" "E-Switch"
-			(at 146.05 48.26 0)
+			(at 143.51 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
