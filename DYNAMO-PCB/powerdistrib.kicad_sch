@@ -2284,8 +2284,8 @@
 	)
 	(text_box "4G modem port"
 		(exclude_from_sim no)
-		(at 110.49 127 0)
-		(size 80.01 40.64)
+		(at 110.49 125.73 0)
+		(size 80.01 41.91)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -2365,12 +2365,6 @@
 		(uuid "9b257d83-3daa-4a65-b2be-567db101d87c")
 	)
 	(junction
-		(at 222.25 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ae0769f3-c8e8-41e6-a5b6-431226d3efbc")
-	)
-	(junction
 		(at 127 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2381,6 +2375,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b59ae299-236b-485c-8742-8981ea7fa9ea")
+	)
+	(junction
+		(at 222.25 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c37a8a15-8bde-476b-b8b5-c17582721bee")
 	)
 	(junction
 		(at 147.32 102.87)
@@ -2642,7 +2642,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 55.88) (xy 222.25 104.14)
+			(xy 222.25 55.88) (xy 222.25 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2982,6 +2982,16 @@
 	)
 	(wire
 		(pts
+			(xy 222.25 81.28) (xy 222.25 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98f11436-74c7-43d6-a5ea-60ed76fd1cc4")
+	)
+	(wire
+		(pts
 			(xy 72.39 88.9) (xy 124.46 36.83)
 		)
 		(stroke
@@ -3062,7 +3072,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 77.47) (xy 240.03 77.47)
+			(xy 236.22 77.47) (xy 238.76 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3122,7 +3132,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 104.14) (xy 222.25 104.14)
+			(xy 238.76 81.28) (xy 222.25 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3179,16 +3189,6 @@
 			(type default)
 		)
 		(uuid "c6e7e3dc-80d9-4b3e-b70d-7ba2fc2ed897")
-	)
-	(wire
-		(pts
-			(xy 222.25 104.14) (xy 222.25 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb195aea-ecc3-4714-a690-8a257374ca73")
 	)
 	(wire
 		(pts
@@ -3412,7 +3412,7 @@
 	)
 	(hierarchical_label "GND peripherals"
 		(shape input)
-		(at 224.79 104.14 0)
+		(at 238.76 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
