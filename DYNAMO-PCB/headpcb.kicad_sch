@@ -2610,7 +2610,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330"
 			(at 147.32 55.88 90)
 			(effects
 				(font
@@ -2679,7 +2679,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "470µF"
 			(at 118.11 88.0109 0)
 			(effects
 				(font
@@ -2965,7 +2965,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "470µF"
 			(at 149.86 88.0109 0)
 			(effects
 				(font
@@ -3193,7 +3193,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "470µF"
 			(at 166.37 88.0109 0)
 			(effects
 				(font
@@ -3263,7 +3263,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "470µF"
 			(at 133.35 88.0109 0)
 			(effects
 				(font
@@ -3550,7 +3550,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330"
 			(at 147.32 58.42 90)
 			(effects
 				(font
