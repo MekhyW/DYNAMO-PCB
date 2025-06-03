@@ -1474,7 +1474,7 @@
 	)
 	(text_box "Lattepanda powering"
 		(exclude_from_sim no)
-		(at 110.49 63.5 0)
+		(at 110.49 62.23 0)
 		(size 78.74 49.53)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -1573,7 +1573,7 @@
 		(uuid "9b257d83-3daa-4a65-b2be-567db101d87c")
 	)
 	(junction
-		(at 142.24 88.9)
+		(at 147.32 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3604230-2891-41c1-83f7-4d8fa4a8d6f3")
@@ -1591,7 +1591,7 @@
 		(uuid "b59ae299-236b-485c-8742-8981ea7fa9ea")
 	)
 	(junction
-		(at 142.24 91.44)
+		(at 146.05 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd49c2ce-a43a-4152-940b-6f73cb714306")
@@ -1740,7 +1740,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 71.12) (xy 147.32 83.82)
+			(xy 147.32 71.12) (xy 147.32 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1750,7 +1750,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 72.39) (xy 146.05 87.63)
+			(xy 146.05 72.39) (xy 146.05 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1840,7 +1840,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 88.9) (xy 160.02 88.9)
+			(xy 147.32 88.9) (xy 160.02 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1857,16 +1857,6 @@
 			(type default)
 		)
 		(uuid "2e05b57f-3101-4349-80c1-b5cd4eb19348")
-	)
-	(wire
-		(pts
-			(xy 146.05 87.63) (xy 142.24 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e4a1366-4f39-4e1b-997f-b177a4c859b2")
 	)
 	(wire
 		(pts
@@ -1930,6 +1920,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 91.44) (xy 142.24 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40210a2e-f56b-4f9e-bf4b-f5c16451f453")
+	)
+	(wire
+		(pts
 			(xy 134.62 58.42) (xy 147.32 71.12)
 		)
 		(stroke
@@ -1957,6 +1957,16 @@
 			(type default)
 		)
 		(uuid "437652f2-6089-4989-97da-96dd1f123e15")
+	)
+	(wire
+		(pts
+			(xy 147.32 88.9) (xy 142.24 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43f334e1-0d3c-4754-95a6-d86a7e9d490d")
 	)
 	(wire
 		(pts
@@ -2160,7 +2170,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 91.44) (xy 160.02 91.44)
+			(xy 146.05 91.44) (xy 160.02 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2657,16 +2667,6 @@
 			(type default)
 		)
 		(uuid "e3a6bf13-2adf-42ad-a8d2-c8cebfbbebaf")
-	)
-	(wire
-		(pts
-			(xy 147.32 83.82) (xy 142.24 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e61ccf1f-1a83-478d-bb28-898a23ca55f1")
 	)
 	(wire
 		(pts
